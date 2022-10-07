@@ -1,0 +1,15 @@
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.csproj.AssemblyReference.cache
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.AssemblyInfoInputs.cache
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.AssemblyInfo.cs
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.csproj.CoreCompileInputs.cache
+/Users/sammie/git/cse210-hilo/bin/Debug/net6.0/Unit02 copy
+/Users/sammie/git/cse210-hilo/bin/Debug/net6.0/Unit02 copy.deps.json
+/Users/sammie/git/cse210-hilo/bin/Debug/net6.0/Unit02 copy.runtimeconfig.json
+/Users/sammie/git/cse210-hilo/bin/Debug/net6.0/Unit02 copy.dll
+/Users/sammie/git/cse210-hilo/bin/Debug/net6.0/Unit02 copy.pdb
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.dll
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/refint/Unit02 copy.dll
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.pdb
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/Unit02 copy.genruntimeconfig.cache
+/Users/sammie/git/cse210-hilo/obj/Debug/net6.0/ref/Unit02 copy.dll
